@@ -1,2 +1,2 @@
-# Linear_Algebra_Activity
+# Linear_Algebra_Activities
 Vitales, Nicole Keith
